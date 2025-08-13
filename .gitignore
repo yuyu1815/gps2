@@ -1,0 +1,53 @@
+# Existing rules
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Added rules
+
+# Secrets
+*.keystore
+*credentials*.json
+*secret*.properties
+google-services.json
+secrets.xml
+
+# Build files
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.jar
+*.aar
+build/
+app/build/
+release/
+debug/
+
+# IDE files
+.idea/
+*.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+atlassian-ide-plugin.xml
+nbproject/private/
+*.swp
+*~
+# User-specific files
+local.properties
