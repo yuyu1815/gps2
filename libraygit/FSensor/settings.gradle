@@ -1,0 +1,2 @@
+include ':fsensor'
+include ':fsensorapp'
