@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">AndoroidGps</string>
+    <string name="app_name">Indoor Positioning</string>
+    <string name="map_image_description">Indoor map</string>
+    <string name="mode_positioning">Positioning Mode</string>
+    <string name="mode_learning">Learning Mode</string>
+    <string name="action_record_point">Record Point</string>
 </resources>
