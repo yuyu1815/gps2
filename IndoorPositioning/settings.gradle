@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name = "IndoorPositioning"
+
+include ':fsensor'
+project(':fsensor').projectDir = new File('../libraygit/FSensor/fsensor')
